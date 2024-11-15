@@ -1,0 +1,2 @@
+ID,Password,ResourceID
+stu00000,000000,200
